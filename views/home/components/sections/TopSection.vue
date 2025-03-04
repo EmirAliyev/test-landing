@@ -1,7 +1,7 @@
 <script setup>
-import Header from '~/shared/ui/widgets/Header.vue'
-import Button from '~/shared/ui/base/Button.vue'
-import RoundedTag from '~/shared/ui/components/RoundedTag.vue'
+import Header from '~/global/ui/widgets/Header.vue'
+import Button from '~/global/ui/base/Button.vue'
+import RoundedTag from '~/global/ui/components/RoundedTag.vue'
 </script>
 
 <template>
