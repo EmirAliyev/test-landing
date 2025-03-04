@@ -1,0 +1,9 @@
+@import './reset';
+@import './variables';
+@import './fonts';
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  overflow-x: hidden;
+}
